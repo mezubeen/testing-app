@@ -1,0 +1,72 @@
+*** Change-log - Mstoreapp Mobile for WooCommerce ***
+
+*******************************************************
+							
+If you like My App please leave us a ★★★★★ rating on codecanyon. A huge thanks in advance!		
+											
+********************************************************
+
+2019.08.12 - version 2.9
+---------------------------------
+
+1) Minor Bug Fix - Update mstoreapp plugin
+
+2019.08.20 - version 2.8
+---------------------------------
+
+1) Minor bug fixes - Category slider
+2) Added android targetSdkVersion 28 in config.xml
+
+2019.08.01 - version 2.7
+---------------------------------
+
+1) Account Kit integration (Update mstoreapp plugin files)
+2) Social Login bug fix
+3) Removed lazy loading
+
+
+2019.07.02 - version 2.6
+---------------------------------
+
+1) New Login Layouts
+2) Social Login
+3) Update mstoreapp plugin files
+4) Bug fix in wishlist
+
+2019.06.29 - version 2.5
+---------------------------------
+
+1) New theme layout
+2) Update plugin files
+
+2019.06.14 - version 2.4
+---------------------------------
+
+1) Home Page - Loads Banners, Categories, Products with one request
+2) Update plugin files
+
+2019.03.27 - version 2.3
+---------------------------------
+
+1) WooCommerce Points and Rewards - Depends plugin https://woocommerce.com/products/woocommerce-points-and-rewards/?aff=7531
+2) WooCommerce Product Add-Ons - Depends plugin https://woocommerce.com/products/product-add-ons/?aff=7531
+3) Changes Product Blocks - ReUpload Mstoreapp plugin ( If your app not working reset products and flash sale block sections )
+
+2019.04.15 - version 2.2
+---------------------------------
+
+1) Minor Bug fix
+
+2019.03.19 - version 2.1
+---------------------------------
+
+1) Woo Wallet Integration - Depends plugin https://wordpress.org/plugins/woo-wallet/
+2) Order Refund System Depends plugin https://yithemes.com/themes/plugins/yith-advanced-refund-system-for-woocommerce/ (Free Version)
+3) Bug fix - Stipe and PayPal Payment and Push Notification
+4) Notification on new order - upload plugin files
+5) Stripe Card Payment
+
+
+2019.02.19 - version 2.0
+---------------------------------
+* First release!

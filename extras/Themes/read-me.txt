@@ -1,0 +1,5 @@
+*** Pre built themes ***
+
+Rename desired theme file to variables.scss
+
+Copy the and replace the variables.scss file in app/src/theme/ folder

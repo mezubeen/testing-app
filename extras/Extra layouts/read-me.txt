@@ -1,0 +1,4 @@
+*** These are additional them layouts ***
+
+If you want to use these layouts copy and replace existing files in respective folder inside app
+Some files contain multiple layouts. copy respective HTML and CSS Blocks
